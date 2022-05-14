@@ -1,0 +1,19 @@
+pendown
+forward
+turnright
+green
+forward
+white
+turnright
+forward
+karan
+rgbcolor 120 150 200
+turnleft 100
+circle
+triangle
+triangle 100
+circle 120
+fillcircle 120
+about
+loadimage
+loadimage
